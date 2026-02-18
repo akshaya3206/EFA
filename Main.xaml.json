@@ -18,30 +18,6 @@
       "DataSourceItems": null
     },
     {
-      "Name": "empRowIndex",
-      "DisplayName": "empRowIndex",
-      "Category": null,
-      "Tooltip": null,
-      "Placeholder": null,
-      "Widget": null,
-      "IsRequired": false,
-      "IsPrincipal": true,
-      "ArgumentType": 0,
-      "DataSourceItems": null
-    },
-    {
-      "Name": "dateColIndex",
-      "DisplayName": "dateColIndex",
-      "Category": null,
-      "Tooltip": null,
-      "Placeholder": null,
-      "Widget": null,
-      "IsRequired": false,
-      "IsPrincipal": true,
-      "ArgumentType": 0,
-      "DataSourceItems": null
-    },
-    {
       "Name": "ptoDate",
       "DisplayName": "ptoDate",
       "Category": null,

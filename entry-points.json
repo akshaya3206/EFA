@@ -26,21 +26,6 @@
           }
         },
         "required": []
-      },
-      "output": {
-        "type": "object",
-        "properties": {
-          "empRowIndex": {
-            "type": "integer",
-            "minimum": -2147483648,
-            "maximum": 2147483647
-          },
-          "dateColIndex": {
-            "type": "integer",
-            "minimum": -2147483648,
-            "maximum": 2147483647
-          }
-        }
       }
     }
   ]

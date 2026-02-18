@@ -11,9 +11,6 @@
           "emp": {
             "type": "string"
           },
-          "argument1": {
-            "type": "string"
-          },
           "ptoDate": {
             "type": "string",
             "format": "date-time"
@@ -23,6 +20,9 @@
             "items": {
               "type": "object"
             }
+          },
+          "User": {
+            "type": "string"
           }
         },
         "required": []

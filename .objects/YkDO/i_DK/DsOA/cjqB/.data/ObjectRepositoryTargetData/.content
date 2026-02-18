@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ulXeChZrR0yIZ1WekyDXtg" Reference="O6Jqv6Qs2EuaP78LM9sqTA/cjqBVHla7UuQt1vSQQKUIg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="eb067ec3-081c-48e4-ab30-27d0efd1634b" CvElementArea="471, 188, 114, 40" CvTextArea="514, 199, 25, 16" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="472, 189, 113, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='2' title='OK' /&gt;" Guid="5cb1251c-3091-4494-9fa8-6bfd55bb70cf" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='#32770' title='Microsoft Excel' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2d357f83af0eda1fb0151f8eeee76c19.jpg" xmlns="">0Ah2QaQm_A0qFcXvJ7Cndfw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

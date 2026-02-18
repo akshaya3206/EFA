@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ViT8I3ER3kSXcZO3-N40xg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="101, 85, 464, 49" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='65535' title='Mapping complete (Draft-&amp;gt;-REQ, Approved upgrades -REQ; weekends+*' /&gt;" Guid="8fbb4ddf-a85e-4fe1-8808-ae5a59fc608e" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='#32770' title='Microsoft Excel' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="49bfcd7d5b958a5ad76d86cd238a33aa.jpg" xmlns="">0fgXWIMhWVkm2Dcxsr-bYQA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

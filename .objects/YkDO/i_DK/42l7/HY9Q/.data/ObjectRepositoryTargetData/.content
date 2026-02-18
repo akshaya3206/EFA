@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nGEDJDky-keSF90tWErZ_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="0, 0, 418, 173" ElementVisibilityArgument="Interactive" Guid="3fb2294a-b5ee-4dfe-bccd-522a61c48b81" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='#32770' title='Microsoft Excel' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9b2fb7432747f3868886f3b417da96a5.jpg" xmlns="">0kpd9WUUpt0m50kFcQply_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

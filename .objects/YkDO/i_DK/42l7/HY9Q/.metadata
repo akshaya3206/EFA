@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Microsoft Excel",
+  "Type": "Element",
+  "Id": "HY9QgrWOP0CB8CnEZylexQ",
+  "Reference": "O6Jqv6Qs2EuaP78LM9sqTA/HY9QgrWOP0CB8CnEZylexQ",
+  "ParentRef": "O6Jqv6Qs2EuaP78LM9sqTA/42l7mAjQD0mdL-dWE4baHg",
+  "Created": "2026-02-17T12:01:29.8309182Z",
+  "Updated": "2026-02-17T12:01:29.8309182Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

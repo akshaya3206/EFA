@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Cleared PTO codes (PTS…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "y5tNJUG1MkisIFAMRutEIg",
+  "Reference": "O6Jqv6Qs2EuaP78LM9sqTA/y5tNJUG1MkisIFAMRutEIg",
+  "ParentRef": "O6Jqv6Qs2EuaP78LM9sqTA/42l7mAjQD0mdL-dWE4baHg",
+  "Created": "2026-02-17T12:50:31.9713196Z",
+  "Updated": "2026-02-17T12:50:31.9713196Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
